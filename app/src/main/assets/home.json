@@ -1,0 +1,40 @@
+{
+  "title" : {
+    "text" : "USER님 이런 상품 어때요?",
+    "icon_url" : "https://user-images.githubusercontent.com/107015573/188628281-b68be655-6418-4c3b-b06a-d959d8cfb3dc.png"
+  },
+  "top_banners" : [
+    {
+      "background_image_url": "https://user-images.githubusercontent.com/107015573/188628771-9e071479-a448-4909-97fb-aa5d695e98e9.png",
+      "badge": {
+        "label": "기획전",
+        "background_color": "#52514d"
+      },
+      "label": "따스한 봄\n허태훈",
+      "product_detail": {
+        "brand_name": "just_2.am",
+        "label": "2022년의 기록",
+        "discount_rate": 9,
+        "price": "102000",
+        "thumbnail_image_url": "https://user-images.githubusercontent.com/107015573/188628979-5255e7ba-5c0f-46eb-8dba-2ffa0accfd74.png",
+        "product_id": "FW-twg-photo-1"
+      }
+    },
+    {
+      "background_image_url": "https://user-images.githubusercontent.com/107015573/188628838-e97f9f06-3cf5-4f20-91ef-5284a182a665.png",
+      "badge": {
+        "label": "기획전",
+        "background_color": "#967a6d"
+      },
+      "label": "무더운 여름\n허태훈",
+      "product_detail": {
+        "brand_name": "just_2.am",
+        "label": "2022년 여름이었다",
+        "discount_rate": 10,
+        "price": "100000",
+        "thumbnail_image_url": "https://user-images.githubusercontent.com/107015573/188629122-7ab022d7-815c-4eef-9d8a-16e3284000d9.png",
+        "product_id": "FW-twg-photo-2"
+      }
+    }
+  ]
+}
